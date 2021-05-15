@@ -11,6 +11,7 @@ Journals of Information and Intelligence Science (IIS)
 
 ## 情报
 + [情报学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBXB&Year=&Issue=)
++ [情报科学](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QBKX&Year=&Issue=)
 + [Journal of Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643)([JASIS](https://dblp.uni-trier.de/db/journals/jasis/index.html))
 + [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management)([IPM](https://dblp.uni-trier.de/db/journals/ipm/index.html))
 + [Journal of Information Science](https://journals.sagepub.com/home/jis)([JIS](https://dblp.uni-trier.de/db/journals/jis/index.html))
